@@ -92,8 +92,7 @@ A full-stack Lost & Found web app to assist in resource recovery utilizing image
 <!-- Animated Stats! -->
 <div align="center">
   <!-- FIXED STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Methun-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Methunraj's GitHub stats" width="48%" />
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Methun-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <!-- FIXED STREAK -->
   <img src="https://streak-stats.demolab.com?user=Methun-21&theme=tokyonight&hide_border=true" alt="Methunraj's Streak" width="48%" />
 </div>
