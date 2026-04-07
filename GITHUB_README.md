@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://komarev.com/ghpvc/?username=Methun-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/methunraj-a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -78,6 +78,6 @@ A full-stack Lost & Found web app to assist in resource recovery utilizing image
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Methunraj's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Methunraj's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Methun-21&show_icons=true&theme=tokyonight&hide_border=true" alt="Methunraj's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Methun-21&theme=tokyonight&hide_border=true" alt="Methunraj's Streak" width="48%" />
 </div>
