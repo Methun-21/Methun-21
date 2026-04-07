@@ -4,7 +4,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student+🎓;Apple+Swift+Student+Challenge+2026+Winner+🏆;Specializing+in+Machine+Learning+%26+NLP+🤖;Passionate+iOS+App+Developer+🍏" alt="Typing SVG" />
+    <!-- FIXED TYPING SVG -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student+🎓;Machine+Learning+%26+NLP+🤖;iOS+App+Developer+🍏" />
   </a>
 </div>
 
@@ -90,8 +91,11 @@ A full-stack Lost & Found web app to assist in resource recovery utilizing image
 
 <!-- Animated Stats! -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Methun-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Methunraj's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Methun-21&theme=tokyonight&hide_border=true" alt="Methunraj's Streak" width="48%" />
+  <!-- FIXED STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Methun-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Methunraj's GitHub stats" width="48%" />
+  
+  <!-- FIXED STREAK -->
+  <img src="https://streak-stats.demolab.com?user=Methun-21&theme=tokyonight&hide_border=true" alt="Methunraj's Streak" width="48%" />
 </div>
 
 <br />
