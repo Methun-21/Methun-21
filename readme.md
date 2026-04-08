@@ -54,11 +54,10 @@
 
 ## 🚀 Featured Projects
 
-<!-- You can replace this section with Dynamic GitHub Repo Cards once your projects are public by uncommenting this and adding your repo name: 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Methun-21&repo=YOUR_REPO_NAME&theme=tokyonight" />
 </div>
--->
+
 
 ### ✨ [The Last Spark](#) *(Apple Swift Student Challenge 2026 Winner)*
 A sci-fi arcade dodge game built entirely using **SwiftUI**. Features custom game loops, dynamic difficulty, implemented story & endless modes with haptics, spatial audio, and smooth UI transitions for immersive gameplay.
