@@ -54,9 +54,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Methun-21&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</div>
 
 
 ### ✨ [The Last Spark](#) *(Apple Swift Student Challenge 2026 Winner)*
